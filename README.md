@@ -151,8 +151,10 @@ This project was made possible by the following team members:
 
 * **Nitheesh Choppa** - *Team Leader*
     * [LinkedIn](https://www.linkedin.com/in/choppanitheesh/)
+* **Choppa Bhupathi Shiva Kumar**
+    * [LinkedIn](https://www.linkedin.com/in/bhupathichoppa/)
 * **Chitturi Chanukya**
     * [LinkedIn](https://www.linkedin.com/in/chanukyachitturi/)
-* **Bhupathi Shiva Kumar**
-    * [LinkedIn](https://www.linkedin.com/in/bhupathichoppa/)
-* **Raghu Krishna Chowdary**
+* *Raghu Krishna Chowdary*
+    * [LinkedIn](https://www.linkedin.com/in/potla-raghu-krishna-choudary-741b9726a)
+     
